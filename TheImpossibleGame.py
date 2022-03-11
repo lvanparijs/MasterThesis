@@ -3,7 +3,6 @@ from random import randint
 import os
 
 import pygame
-
 from Box import Box
 from Camera import Camera
 from Game import Game

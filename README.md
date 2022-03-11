@@ -12,9 +12,5 @@ Press SPACE to jump
 
 ## Getting Started
 
-### Dependencies
+Download the repository and run the .exe file. Alternatively, open the repository in an IDE of your choosing and run TheImpossibleGame.py
 
-
-### Installing
-
-### Executing program
